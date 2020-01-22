@@ -163,3 +163,37 @@
       (NP (DT an) (NN appearance) (NN fee)))
     (. .)))					<<1+1S + (S (SBAR (IN
 |||
+(ROOT
+  (S
+    (ADVP (RB Finally))
+    (, ,)
+    (S
+      (NP (NNP CFCs))
+      (VP (VBD were)
+        (ADVP (RB also))
+        (ADJP (RB very) (JJ effective))
+        (PP (IN at)
+          (S
+            (VP (VBG depleting)
+              (NP
+                (NP (JJ stratospheric) (NN ozone))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ protects)
+                      (NP (PRP us))
+                      (PP (IN from)
+                        (NP (JJ harmful) (JJ solar) (JJ ultraviolet) (NN radiation))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP$ their) (NN use))
+      (VP (VBD created)
+        (NP (DT a) (NN hole))
+        (PP (IN in)
+          (NP
+            (NP (NNP Earth) (POS 's))
+            (JJ stratospheric) (NN ozone) (NN layer)))))
+    (. .)))
+|||
